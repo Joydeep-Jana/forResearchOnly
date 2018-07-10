@@ -1,2 +1,2 @@
-This Repository is for research porpose only.
+This Repository is for research purpose only.
 
